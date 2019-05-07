@@ -1,0 +1,7 @@
+[instances]
+< IP or DNS name of target instance1 >
+< IP or DNS name of target instance2 >
+
+[instances:vars]
+user_name=Kritika
+user_description="Granting/Revoking SSH Access Test"
